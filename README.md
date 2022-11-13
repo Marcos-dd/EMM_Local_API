@@ -39,7 +39,7 @@ En /data creará tantas subcarpetas como sectores se hayan escogido para el estu
 Cada subcarpeta llevará el nombre del sector y contendrá los informes del 2000 al 2020 con todos los ratios sectoriales e información complementaria de dicho sector.   
 Además creará tres archivos más:   
 	- {sector}/enterprises.xlsx: Muestra el número de empresas del sector sometidas al estudio en cada año.        
-	Las cifras se obtienen a partir del R16 ya que posee los valores máximos (nº de empresas) en todos los informes, siendo por tanto el ratio más representativo. 
+	Las cifras se obtienen a partir del R16 ya que posee los valores máximos (nº de empresas) en todos los informes, siendo por tanto el ratio más representativo.    
 	- {sector}/median.xlsx: Ofrece una muestra de todos los valores Q2 de todos los ratios por cada año.    
 	- {sector}/total.xlsx: Tabla resumen que muestra el número de empresas y los ratios sometidos a estudio por cada año.   
 
