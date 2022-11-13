@@ -15,14 +15,14 @@ Dichos ratios pueden ofrecer una simplificación suficiente para entender la evo
 En esta versión Beta se estudia el ratio R16((Ingresos-Gastos)/Total de Activos) que se muestra como Rentabilidad y el R10(Ventas/Total de Activos) que se muestra 
 como Rendimiento y vienen predefinidos para su estudio los siguientes sectores:
 
-### C26-> Fabricación de productos informáticos, electrónicos y ópticos
-### J -> Información y comunicaciones
-# J62-> Programación, consultoría y otras actividades relacionadas con la informática
-# J631-> Procesos de datos, hosting y actividades relacionadas; portales web
-# N-> Servicios administrativos y auxiliares
-# P-> Educación
-# Q-> Sanidad y Servicios Sociales
-# I-> Hostelería
+**C26**-> Fabricación de productos informáticos, electrónicos y ópticos
+**J**-> Información y comunicaciones
+**J62**-> Programación, consultoría y otras actividades relacionadas con la informática
+**J631**-> Procesos de datos, hosting y actividades relacionadas; portales web
+**N**-> Servicios administrativos y auxiliares
+**P**-> Educación
+**Q**-> Sanidad y Servicios Sociales
+**I**-> Hostelería
 
 "En la versión definitiva se puodrán seleccionar todos los sectores sobre los que se quiera realizar el estudio."
 
