@@ -2,7 +2,7 @@
 Programa automatizado que se comunica con la web del Banco de España, extrae los datos, los limpia y los representa.
 
 
-## Extract, Move & Merge - EMM Local API  (Beta Version) - V2.6
+## Extract, Move & Merge - EMM Local API  (Beta Version) - V.2.7
 -----------------------------------------------------
 -----------------------------------------------------
 
