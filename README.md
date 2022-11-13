@@ -27,6 +27,11 @@ como Rendimiento y vienen predefinidos para su estudio los siguientes sectores:
 "En la versión definitiva se puodrán seleccionar todos los sectores sobre los que se quiera realizar el estudio."
 
 -----------------------------------------------------
+Antes de ejecutar el programa, cargue el archivo requirements.txt en su entorno virtual:
+
+# pip install -r requirements.txt 
+
+-----------------------------------------------------
 Cómo ejecutarlo:   
 1.- Guardar el archivo main.py y funciones.py en local.   
 2.- Configurar el path de descargas del navegador a la carpeta de descargas en local (Download por defecto).   
