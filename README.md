@@ -29,7 +29,7 @@ como Rendimiento y vienen predefinidos para su estudio los siguientes sectores:
 -----------------------------------------------------
 Antes de ejecutar el programa, cargue el archivo requirements.txt en su entorno virtual:
 
-# pip install -r requirements.txt 
+pip install -r requirements.txt 
 
 -----------------------------------------------------
 Cómo ejecutarlo:   
