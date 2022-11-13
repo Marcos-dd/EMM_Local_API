@@ -1,5 +1,5 @@
 # EMM_Local_API
-Programa automatizado que se comunica con la web del Banco de España, extrae los datos, los limpia y los representa.
+Programa automatizado de extracción y representación de datos alojados en la web del Banco de España.
 
 ## Extract, Move & Merge - EMM Local API  (Beta Version) - V.2.7
 -----------------------------------------------------
