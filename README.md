@@ -27,20 +27,20 @@ como Rendimiento y vienen predefinidos para su estudio los siguientes sectores:
 "En la versión definitiva se puodrán seleccionar todos los sectores sobre los que se quiera realizar el estudio."
 
 -----------------------------------------------------
-Cómo ejecutarlo:
-1.- Guardar el archivo main.py y funciones.py en local.
-2.- Configurar el path de descargas del navegador a la carpeta de descargas en local (Download por defecto)
-3.- Ejecutar el archivo main.py
+Cómo ejecutarlo:   
+1.- Guardar el archivo main.py y funciones.py en local.   
+2.- Configurar el path de descargas del navegador a la carpeta de descargas en local (Download por defecto).   
+3.- Ejecutar el archivo main.py   
 
 
-Una vez ejecutado, el programa creará dos carpetas, 'data' y 'graficas', en la carpeta donde se hayan guardado los archivos .py.
+Una vez ejecutado, el programa creará dos carpetas, 'data' y 'graficas', en la carpeta donde se hayan guardado los archivos .py       
 
-En /data creará tantas subcarpetas como sectores se hayan escogido para el estudio. 
-Cada subcarpeta llevará el nombre del sector y contendrá los informes del 2000 al 2020 con todos los ratios sectoriales e información complementaria de dicho sector.
-Además creará tres archivos más:
-	- {sector}/enterprises.xlsx: Muestra el número de empresas del sector sometidas al estudio en cada año. 
-		Las cifras se obtienen a partir del R16 ya que posee los valores máximos (nº de empresas) en todos los informes, siendo por tanto el ratio más representativo.
-	- {sector}/median.xlsx: Ofrece una muestra de todos los valores Q2 de todos los ratios por cada año.
-	- {sector}/total.xlsx: Tabla resumen que muestra el número de empresas y los ratios sometidos a estudio por cada año
+En /data creará tantas subcarpetas como sectores se hayan escogido para el estudio.    
+Cada subcarpeta llevará el nombre del sector y contendrá los informes del 2000 al 2020 con todos los ratios sectoriales e información complementaria de dicho sector.   
+Además creará tres archivos más:   
+	- {sector}/enterprises.xlsx: Muestra el número de empresas del sector sometidas al estudio en cada año.        
+	Las cifras se obtienen a partir del R16 ya que posee los valores máximos (nº de empresas) en todos los informes, siendo por tanto el ratio más representativo. 
+	- {sector}/median.xlsx: Ofrece una muestra de todos los valores Q2 de todos los ratios por cada año.    
+	- {sector}/total.xlsx: Tabla resumen que muestra el número de empresas y los ratios sometidos a estudio por cada año.   
 
 En /graficas se crearán, en formato .html, los gráficos interactivos correspondientes a los excel comentados para cada sector así como un gráfico TVM.html donde se mostrarán las correspodientes tasas de variación media de estos 20 años.
