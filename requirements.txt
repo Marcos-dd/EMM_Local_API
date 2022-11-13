@@ -1,0 +1,8 @@
+plotly
+pandas
+selenium
+webdriver_manager
+pathlib
+packaging
+xlrd
+openpyxl
